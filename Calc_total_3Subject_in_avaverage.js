@@ -1,0 +1,13 @@
+var roll_no;
+var average;
+var total;
+var s1 = 50;
+var s2 = 58;
+var s3 = 38;
+total = s1 + s2 + s3;
+average = total / 3.0;
+console.log("Marks  subject 1 : ", s1);
+console.log("Marks  subject 2 : ", s2);
+console.log("Marks  subject 3 : ", s3);
+console.log("Total :", total);
+console.log("average is  : ", average);
